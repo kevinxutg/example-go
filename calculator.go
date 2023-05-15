@@ -22,5 +22,5 @@ func Divide(x, y int) (float64, error) {
 }
 
 func A() (int, error) {
-	return x + y, nil
+	return 1, nil
 }
